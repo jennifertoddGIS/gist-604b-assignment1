@@ -17,6 +17,7 @@ def main():
 
     # Add your own message here!
     print("I like telling stories and sharing information through maps!")
-
+    print('Updated in Codespaces')
+    
 if __name__ == "__main__":
     main()
