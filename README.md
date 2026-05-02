@@ -1,11 +1,8 @@
 # Open Source Infrastructure & Workflows
 
 **Student:** Jennifer Todd  
-
 **Course:** GIST 604B – Open Source GIS  
-
 **Module:** Module 1: Open Source Infrastructure & Workflows  
-
 **University of Arizona**  
 
 
