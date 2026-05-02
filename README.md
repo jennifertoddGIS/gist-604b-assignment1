@@ -1,9 +1,13 @@
-# [Project Title]
+# Open Source Infrastructure & Workflows
 
-**Student:** Jennifer Todd
-**Course:** GIST 604B – Open Source GIS
-**Module:** Module 1: Open Source Infrastructure & Workflows
-**University of Arizona**
+**Student:** Jennifer Todd  
+
+**Course:** GIST 604B – Open Source GIS  
+
+**Module:** Module 1: Open Source Infrastructure & Workflows  
+
+**University of Arizona**  
+
 
 ## Project Description
 This project introduced me to Github and the fundamentals of open source GIS. I built my first Github repository, used Codespaces to write script, and learned the Git workflow. 
