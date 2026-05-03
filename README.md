@@ -1,29 +1,16 @@
-# Open Source Infrastructure & Workflows
+# Jennifer Todd – GIS Portfolio  
 
-**Student:** Jennifer Todd  
-**Course:** GIST 604B – Open Source GIS  
-**Module:** Module 1: Open Source Infrastructure & Workflows  
-**University of Arizona**  
+## About
+I am currently enrolled in the GIST Master's Program at the University of Arizona. I completed my bachelors in Geography/GIS at Arizona State University. I am currently employed as a GIS manager at my native corporation in Alaska.
 
+## Projects
+Links to course projects will be added as part of this assignment.
 
-## Project Description
-This project introduced me to Github and the fundamentals of open source GIS. I built my first Github repository, used Codespaces to write script, and learned the Git workflow. 
-
-## Tools and Technologies
-- Git and Github
-- Codespaces
-- Python
-
-## What I Did
-- Created Github repository
-- Created Python script in Codespaces
-- Practiced the Git workflow (stage, commit, push)
-
-## How to View / Run
-[Instructions for viewing the project. For example:
-- Link to live GitHub Pages site (if applicable)
-- How to run a Python script
-- How to open the map]
+## Skills
+- ArcGIS Pro and Online
+- QGIS
+- GitHub, Codespaces, Visual Studio Code
+- Cartography: Map design, stling and visualization
 
 ## Repository Structure
 - `docs/` - documentation
